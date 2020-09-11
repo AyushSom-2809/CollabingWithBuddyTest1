@@ -15,7 +15,7 @@ namespace CollabWithBuddyTesting1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Testing with my buddy Aritro for collab and waiting for him to make a change !";
+            ViewBag.Message = "Hey Ayush I have changed this line. Hope you receive this!!!!";
 
             return View();
         }
